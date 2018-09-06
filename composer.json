@@ -1,5 +1,5 @@
 {
-    "name": "d/skyengtest",
+    "name": "d/test",
     "require": {
         "psr/cache": "^1.0",
         "psr/log": "^1.0"
